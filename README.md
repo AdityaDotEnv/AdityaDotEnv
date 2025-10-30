@@ -1,45 +1,50 @@
-# 👋 Hi there, I'm Aditya!
+# 👋 Hi, I'm Aditya!
 
-🎓 Sophomore @ BGSCET | 📚 Department of Information Science and Engineering  
-💻 Aspiring Full-Stack Developer | 🚀 Hackathon Enthusiast  
-🌱 Currently learning advanced Full-Stack Development, Servlet Architecture, and DSA | 
-🎸 Guitarist
+🎓 Pre-Final Year @ **BGSCET** | 📚 Department of Information Science & Engineering  
+💻 Aspiring **Full-Stack Developer** & **Cybersecurity Enthusiast** | 🚀 Hackathon Enthusiast  
+🌱 Learning **Advanced Full-Stack Development, React, Servlet Architecture, DSA, and Cybersecurity**  
+🎸 Guitarist & Music Enthusiast  
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack & Skills
 
 **Languages:**  
-`C` `C++` `Java` `Python` `JavaScript`
+`C` `C++` `Java` `Python` `JavaScript`  
 
-**Web Dev:**  
-`HTML5` `CSS3` `Node.js` `Express.js` `Firebase` `Tomcat` `SQLite`
+**Web Development & Frameworks:**  
+`React` `Node.js` `Express.js` `HTML5` `CSS3` `Tailwind CSS` `Firebase` `Tomcat` `SQLite`  
 
-**Frameworks/Libraries:**  
-`Java Swing` `Chart.js` `Xenova Transformers` `DeepSeek-R1`
+**Libraries & Tools:**  
+`React Router` `Axios` `Chart.js` `Xenova Transformers` `DeepSeek-R1` `Java Swing`  
 
-**Tools & Platforms:**  
-`Git` `GitHub` `VS Code` `Postman` `XAMPP`
+**Cybersecurity & Tools:**  
+`Wireshark` `nmap` `Burp Suite` `Metasploit` `Postman` `Docker`  
+
+**Version Control & IDEs:**  
+`Git` `GitHub` `VS Code` `XAMPP`  
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔐 [Serene – Your Emotional Wellbeing Companion](https://github.com/WarwolfXR/Serene---Mental-Health-Companion)  
-  An AI-powered journal chatbot that uses sentiment analysis and emergency support integration.
+### 🔐 [Serene – Your Emotional Wellbeing Companion](https://github.com/WarwolfXR/Serene---Mental-Health-Companion)  
+An AI-powered journal chatbot leveraging **sentiment analysis** and **emergency support integration** to enhance mental wellbeing.  
+**Tech:** Node.js, Express.js, HTML/CSS/JS, Xenova Transformers, Python (FastAPI backend)  
 
-- 📊 [Student Feedback System](https://github.com/WarwolfXR/Servlet-Feedback-System)  
-  A Java Servlet-based feedback platform with SQLite integration and admin bar graph dashboard using Chart.js.
+### 🛡️ [XploitSim – Cybersecurity Simulation Platform](https://github.com/WarwolfXR/XploitSim)  
+A platform to simulate and visualize cybersecurity attack and defense scenarios, aimed at learning **penetration testing** and **vulnerability analysis**.  
+**Tech:** React, Node.js, Express.js, Firebase, JavaScript  
 
 ---
 
 ## 🏆 Highlights
 
-- 🎯 Participated in **HackKshetra 2024**, a 24-hour national hackathon.
-- 🎯 Participated in **Advaya 2025**, a 24-hour national hackathon. 
-- 🌍 Organized and participated in community service drives with **Youth For Seva**.
-- 🌍 Student Placement Coordinator at BGSCET.
-- ✨ Student Event Coordinator at Samvit-2k25 Intercollegiate Fest at BGSCET.
+- 🎯 Participated in **HackKshetra 2024** – 24-hour national hackathon  
+- 🎯 Participated in **Advaya 2025** – 24-hour national hackathon  
+- 🌍 Organized and participated in community service with **Youth For Seva**  
+- ✨ **Student Placement Coordinator** at BGSCET  
+- ✨ **Student Event Coordinator** – Samvit-2k25 Intercollegiate Fest  
 
 ---
 
@@ -51,14 +56,25 @@
 
 ---
 
-## 📫 Let’s Connect
+## 💡 Tech Radar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya--k/)  
-📧 Email: adityak.10102005@gmail.com
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=cybersecurity&logoColor=white)
 
 ---
 
-### “Breaking Bad to Fixing Good” 🔥 
+## 📫 Connect with Me
 
-One small git commit for a dev, one giant leap for the project. 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya--k/)  
+📧 **Email:** adityak.10102005@gmail.com  
 
+---
+
+### 💬 Motto
+
+> “Breaking Bad to Fixing Good” 🔥  
+> One small git commit for a dev, one giant leap for the project. 🚀
