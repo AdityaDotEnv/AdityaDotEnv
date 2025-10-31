@@ -28,11 +28,11 @@
 
 ## 🚀 Featured Projects
 
-### 🔐 [Serene – Your Emotional Wellbeing Companion](https://github.com/WarwolfXR/Serene---Mental-Health-Companion)  
+### 🔐 [Serene – Your Emotional Wellbeing Companion](https://github.com/AdityaDotEnv/Serene---Mental-Health-Companion)  
 An AI-powered journal chatbot leveraging **sentiment analysis** and **emergency support integration** to enhance mental wellbeing.  
 **Tech:** Node.js, Express.js, HTML/CSS/JS, Xenova Transformers, Python (FastAPI backend)  
 
-### 🛡️ [XploitSim – Cybersecurity Simulation Platform](https://github.com/WarwolfXR/XploitSim)  
+### 🛡️ [XploitSim – Cybersecurity Simulation Platform](https://github.com/AdityaDotEnv/XploitSim)  
 A platform to simulate and visualize cybersecurity attack and defense scenarios, aimed at learning **penetration testing** and **vulnerability analysis**.  
 **Tech:** React, Node.js, Express.js, Firebase, JavaScript  
 
@@ -50,9 +50,8 @@ A platform to simulate and visualize cybersecurity attack and defense scenarios,
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WarwolfXR&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WarwolfXR&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WarwolfXR&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaDotEnv&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDotEnv&layout=compact&theme=tokyonight)  
 
 ---
 
