@@ -50,8 +50,10 @@ A platform to simulate and visualize cybersecurity attack and defense scenarios,
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaDotEnv&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDotEnv&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://git-hub-stats-delta.vercel.app/api?username=adityadotenv&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://git-hub-stats-delta.vercel.app/api/top-langs/?username=adityadotenv&layout=compact&theme=tokyonight)
+
 
 ---
 
