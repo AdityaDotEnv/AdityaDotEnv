@@ -74,6 +74,14 @@ Focused on strong problem-solving, clean architecture, and building reliable pro
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge" />
 </p>
 
+### Workflow & Engineering Practices
+<p>
+  <img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub%20Flow-181717?logo=github&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pull%20Requests-0A66C2?logo=github&logoColor=white&style=for-the-badge" />
+</p>
+
+
 ---
 
 ## 🧱 Project Highlights
@@ -105,7 +113,7 @@ Interactive system for attack modeling and defensive strategy visualization.
 
 ## 💼 Experience
 
-### React Web Developer Intern    
+### React Web Developer Intern  
 - Developing and maintaining React-based web applications  
 - Building reusable UI components and predictable state flows  
 - Integrating APIs and improving performance through profiling and refactoring  
@@ -121,7 +129,8 @@ Interactive system for attack modeling and defensive strategy visualization.
 ---
 
 ## 📫 Contact
-**LinkedIn:** https://www.linkedin.com/in/aditya--k/   
+**LinkedIn:** https://www.linkedin.com/in/aditya--k/  
+
 ---
 
 <!-- Footer GIF -->
