@@ -1,6 +1,6 @@
 <!-- Header GIF -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBkMHQ1MnFodjVlNjF5dWNxZXkwdm10amozd3QzNno0bjJtZWdtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="340" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBkMHQ1MnFodjVlNjF5dWNxZXkwdm10amozd3QzNno0bjJtZWdtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="340" height="480" />
 </p>
 
 <h1 align="center">Aditya K</h1>
@@ -81,7 +81,6 @@ Focused on strong problem-solving, clean architecture, and building reliable pro
   <img src="https://img.shields.io/badge/Pull%20Requests-0A66C2?logo=github&logoColor=white&style=for-the-badge" />
 </p>
 
-
 ---
 
 ## 🧱 Project Highlights
@@ -123,7 +122,7 @@ Interactive system for attack modeling and defensive strategy visualization.
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityadotenv&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityadotenv&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityadotenv&layout=compact&theme=tokyonight)
 
 ---
@@ -134,6 +133,19 @@ Interactive system for attack modeling and defensive strategy visualization.
 ---
 
 <!-- Footer GIF -->
+
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczU1aDI3ZGpjbnVma2dlOXlocG9jOXUwb2Q4dDl2bmd1MHIxcTgyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif" width="240"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhhZXdsN24xMTA5NGYxbGthdGhyZThib2M0Y2NicXJmcWFyc254eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hw0wIr1YL75VC/giphy.gif" width="480"/>
+</p>
+
+<p align="center">
+  <b><em>"one last commit before bed"</em></b>
+</p>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXU0cWlsZDBrNDh3eXl2bHNiMTQyZ3NpYWR6eTR4dHF1emoxOGw2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dTeeo2Jy3TpK/giphy.gif" width = "480"/>
+</p>
+
+<p align="center">
+  <b><em>"one last chip before pushing to main"</em></b>
 </p>
