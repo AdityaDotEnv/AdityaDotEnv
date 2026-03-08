@@ -1,4 +1,3 @@
-<!-- Header GIF -->
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBkMHQ1MnFodjVlNjF5dWNxZXkwdm10amozd3QzNno0bjJtZWdtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="340" height="480" />
 </p>
@@ -22,13 +21,11 @@ Focused on strong problem-solving, clean architecture, and building reliable pro
 
 ### **Advanced Frontend Engineering (React)**
 - Architecting complex React applications with predictable state flow  
-- Server-state management using **TanStack Query** and **Redux**  
-- Building flow-driven UIs for multi-step user interactions  
+- Server-state management using **TanStack Query** and **Redux** - Building flow-driven UIs for multi-step user interactions  
 - Implementing dynamic document generation using **React-PDF** and **pdf-lib** (resume builder workflows)  
 
 ### **Backend & API Design**
-- Designing strongly-typed request/response contracts using **Pydantic**  
-- Building FastAPI backends with clear validation and data boundaries  
+- Designing strongly-typed request/response contracts using **Pydantic** - Building FastAPI backends with clear validation and data boundaries  
 - Ensuring smooth frontend ↔ backend integration through shared schemas  
 
 ### **AI / ML (Exploratory)**
@@ -89,19 +86,17 @@ Focused on strong problem-solving, clean architecture, and building reliable pro
 <tr>
 <td align="center" width="50%">
 
-### **Serene — Emotional Wellbeing Companion**  
-AI-powered journaling system with sentiment analysis and crisis detection.  
+### **Serene — Emotional Wellbeing Companion** AI-powered journaling system with sentiment analysis and crisis detection.  
 <a href="https://github.com/AdityaDotEnv/Serene---Mental-Health-Companion">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaDotEnv&repo=Serene---Mental-Health-Companion&theme=tokyonight" />
+<img src="https://github-readme-stats-vercel-inky.vercel.app/api/pin/?username=AdityaDotEnv&repo=Serene---Mental-Health-Companion&theme=tokyonight" />
 </a>
 
 </td>
 <td align="center" width="50%">
 
-### **XploitSim — Cybersecurity Simulation Platform**  
-Interactive system for attack modeling and defensive strategy visualization.  
+### **XploitSim — Cybersecurity Simulation Platform** Interactive system for attack modeling and defensive strategy visualization.  
 <a href="https://github.com/AdityaDotEnv/XploitSim">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaDotEnv&repo=XploitSim&theme=tokyonight" />
+<img src="https://github-readme-stats-vercel-inky.vercel.app/api/pin/?username=AdityaDotEnv&repo=XploitSim&theme=tokyonight" />
 </a>
 
 </td>
@@ -122,8 +117,8 @@ Interactive system for attack modeling and defensive strategy visualization.
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityadotenv&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityadotenv&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-vercel-inky.vercel.app/api?username=adityadotenv&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats-vercel-inky.vercel.app/api/top-langs/?username=adityadotenv&layout=compact&theme=tokyonight)
 
 ---
 
@@ -131,8 +126,6 @@ Interactive system for attack modeling and defensive strategy visualization.
 **LinkedIn:** https://www.linkedin.com/in/aditya--k/  
 
 ---
-
-<!-- Footer GIF -->
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhhZXdsN24xMTA5NGYxbGthdGhyZThib2M0Y2NicXJmcWFyc254eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hw0wIr1YL75VC/giphy.gif" width="480"/>
