@@ -117,8 +117,8 @@ Focused on strong problem-solving, clean architecture, and building reliable pro
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats-vercel-inky.vercel.app/api?username=adityadotenv&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats-vercel-inky.vercel.app/api/top-langs/?username=adityadotenv&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-vercel-inky.vercel.app/api?username=adityadotenv&show_icons=true&theme=tokyonight&include_all_commits=true)  
+![Top Languages](https://github-readme-stats-vercel-inky.vercel.app/api/top-langs/?username=adityadotenv&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5&langs_count=10&cache_seconds=1800)
 
 ---
 
