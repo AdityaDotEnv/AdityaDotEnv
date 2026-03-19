@@ -100,6 +100,7 @@ Building AI-powered web applications with end-to-end type safety and clean archi
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch" height="48" title="PyTorch" />
   <img src="https://skillicons.dev/icons?i=sklearn" height="48" title="scikit-learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" title="Pandas" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="48" title="TensorFlow" />
   <img src="https://skillicons.dev/icons?i=opencv" height="48" title="OpenCV" />
 </p>
@@ -108,7 +109,6 @@ Building AI-powered web applications with end-to-end type safety and clean archi
   <img src="https://img.shields.io/badge/-Google%20GenAI-4285F4?style=for-the-badge&logo=google&logoColor=white" height="48" />
   <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="48" />
   <img src="https://img.shields.io/badge/-Instructor-2A6DF4?style=for-the-badge&logo=python&logoColor=white" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" title="Pandas" />
 </p>
 
 ### DevOps & Infrastructure
