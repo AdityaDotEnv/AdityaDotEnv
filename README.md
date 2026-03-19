@@ -149,8 +149,8 @@ Interactive attack/defense simulation with real-time visualization (TypeScript, 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-vercel-inky.vercel.app/api?username=adityadotenv&show_icons=true&theme=chartreuse-dark&include_all_commits=true&rank_icon=percentile&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats-vercel-inky.vercel.app/api/top-langs/?username=adityadotenv&layout=compact&theme=chartreuse-dark&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true" width="38%" />
+  <img src="https://github-readme-stats-vercel-inky.vercel.app/api?username=adityadotenv&show_icons=true&theme=chartreuse-dark&include_all_commits=true&rank_icon=percentile&hide_border=true&card_width=400" width="45%" />
+  <img src="https://github-readme-stats-vercel-inky.vercel.app/api/top-langs/?username=adityadotenv&layout=compact&theme=chartreuse-dark&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&card_width=400" width="38%" />
 </p>
 
 <p align="center">
@@ -177,8 +177,8 @@ Interactive attack/defense simulation with real-time visualization (TypeScript, 
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXU0cWlsZDBrNDh3eXl2bHNiMTQyZ3NpYWR6eTR4dHF1emoxOGw2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dTeeo2Jy3TpK/giphy.gif" width="480"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=51f542&height=3" width="100%"/>
-
 <p align="center">
   <b><em>"one last chip before pushing to main"</em></b>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=51f542&height=3" width="100%"/>
