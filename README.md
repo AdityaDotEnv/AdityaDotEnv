@@ -196,7 +196,7 @@ Interactive attack/defense simulation with real-time visualization (TypeScript, 
 
 ### Key Achievements
 - **AI-Powered Job Analyzer**: Engineered an LLM-powered system using LangChain and Google GenAI to parse job descriptions and generate personalized up-skilling roadmaps
-- **Modular Resume Builder**: Developed with 5+ dynamic templates, migrated state from Zustand to Redux Toolkit for robust persistence, integrated @react-pdf for PDF export
+- **Modular Resume Builder**: Developed with 10+ dynamic templates, migrated state from Zustand to Redux Toolkit for robust persistence, integrated @react-pdf for PDF export
 - **End-to-End Type Safety**: Synchronized TypeScript interfaces with Pydantic models and SQLAlchemy schemas; managed database structure with Alembic migrations
 - **Authentication & UX**: Implemented GitHub OAuth via Supabase, role-based access, and responsive animations with Framer Motion
 - **Architecture Improvements**: Led codebase modularization and state management migration for better scalability and maintainability
