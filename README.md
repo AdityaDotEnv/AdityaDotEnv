@@ -29,7 +29,8 @@ Tools I have played around with.
 | **[XploitSim🚨](https://github.com/AdityaDotEnv/XploitSim)** | React, TS, Node, FastAPI, WebSockets | Real‑time OWASP Web Top 10 simulation for novice web devs |
 | **[Buzzinga❓](https://github.com/AdityaDotEnv/Buzzinga)** | React, Node, MongoDB, Socket.IO | Multiplayer quiz with AI‑generated questions & host controls |
 | **[AutoSplit💸](https://github.com/AdityaDotEnv/AutoSplit)** | React, Flask, ONNX, Gemini | OCR + NLP bill splitting that actually works |
-| **[SyncIDE (🚧)](https://github.com/Amruth0_0/SyncIDE)** | React, JS, SQLite, Docker | Pair-programming online code editor built with JS |
+| **[SyncIDE 👬💻](https://github.com/Amruth0_0/SyncIDE)** | React, JS, SQLite, Docker | Pair-programming online code editor built with JS |
+| **[CipherLabs🔏](https://github.com/AdityaDotEnv/CipherLabs)** | C++, CMake, JUCE | Interactive classical cipher demonstrations with a JUCE desktop GUI |
 | *Coming soon…* | – | 👀 Keep your peepers peeled |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=51f542&height=3" width="100%"/>
